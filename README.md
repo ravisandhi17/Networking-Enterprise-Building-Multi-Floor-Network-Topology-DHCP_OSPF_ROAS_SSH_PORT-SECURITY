@@ -39,7 +39,7 @@ The lab simulates a three-floor enterprise building network connected through WA
 * SFSW (Second Floor Switch)
 * TFSW (Third Floor Switch)
 
-![IPCONFIG](screenshots/topology/SCOPE_FOR_DHCP.png)
+![TOPOLOGY](screenshots/topology/TOPOLOGY.png)
 
 
 ---
