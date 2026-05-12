@@ -121,8 +121,10 @@ Example:
 
 
 interface GigabitEthernet0/0.10
- encapsulation dot1Q 10
- ip address 192.168.1.1 255.255.255.0
+
+encapsulation dot1Q 10
+ 
+ip address 192.168.1.1 255.255.255.0
 
 
 **Benefits**
@@ -141,8 +143,10 @@ Each router acts as a DHCP server for local VLANs.
 
 
 ip dhcp pool vlan10
- network 192.168.1.0 255.255.255.0
- default-router 192.168.1.1
+
+network 192.168.1.0 255.255.255.0
+
+default-router 192.168.1.1
 
 
 **Features**
@@ -167,8 +171,10 @@ Example:
 
 
 line vty 0 4
- login local
- transport input ssh
+
+login local
+
+transport input ssh
 
 
 ---
