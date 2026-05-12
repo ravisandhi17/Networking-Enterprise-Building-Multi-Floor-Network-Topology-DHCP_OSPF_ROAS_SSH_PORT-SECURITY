@@ -224,7 +224,7 @@ show port-security
 
 **Routing Verification**
 
-```bash
+```
 show ip route
 show ip ospf neighbor
 ```
