@@ -15,7 +15,7 @@ This project demonstrates a multi-site enterprise network topology built in Cisc
 
 The lab simulates a three-floor enterprise building network connected through WAN serial links and segmented VLAN architecture.
 
-## Floor Mapping
+**Floor Mapping**
 
 | Abbreviation | Meaning      |
 | ------------ | ------------ |
