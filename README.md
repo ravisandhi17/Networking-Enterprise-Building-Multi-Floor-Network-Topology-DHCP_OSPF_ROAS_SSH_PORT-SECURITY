@@ -278,20 +278,7 @@ traceroute
 ---
 
 
-**Suggested Screenshots for GitHub**
 
-Add screenshots of:
-
-* OSPF neighbor relationships
-* Successful pings between VLANs
-* DHCP bindings
-* VLAN configuration
-* Trunk interfaces
-* Port security output
-* SSH login
-* Network topology diagram
-
----
 
 **Future Improvements**
 
