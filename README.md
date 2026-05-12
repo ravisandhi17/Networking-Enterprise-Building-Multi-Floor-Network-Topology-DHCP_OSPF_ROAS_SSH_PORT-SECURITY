@@ -224,10 +224,10 @@ show port-security
 
 **Routing Verification**
 
-```
+
 show ip route
 show ip ospf neighbor
-```
+
 
 **VLAN Verification**
 
