@@ -228,10 +228,6 @@ Port security is configured on TFSW.
 
 show port-security
 
-![PORT-SECURITY_SUMMARY](screenshots/port-security/PORT-SECURITY_SUMMARY.png)
-
-![PORT-SECURITY_F0-2](screenshots/port-security/PORT-SECURITY_F0-2.png)
-
 ![PORT-SECURITY_F0-4](screenshots/port-security/PORT-SECURITY_F0-4.png)
 
 **Security Benefits**
